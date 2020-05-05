@@ -53,7 +53,7 @@ invisibleground.x = invisibleground.width /2;
 
  //groups
  obstaclesgroup=new Group();
- coinsgroup=new Group();
+ 
  
 }
 
@@ -137,7 +137,7 @@ function restart(){
   
   obstaclesgroup.destroyEach();
   
-  coins=0
+  
   score = 0;
   
 }
