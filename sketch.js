@@ -17,9 +17,9 @@ Ground=loadImage("floor.png")
 start=loadImage("button.png")
 Player=loadImage("skate1.png")
 Reset=loadImage("replay.png")
-Background=loadImage("background.png")
+
 bush=loadImage("obstacle.png")
-point =loadImage("coin.PNG")
+
 }
 function setup() {
   createCanvas(800,400);
